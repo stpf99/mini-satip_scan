@@ -14,4 +14,4 @@ FYI The Binary provided is compiled on Ubuntu 19.10 / X86
 
 
 
-i modified code for dvb-t/2 
+i modified code for adding dvb-t/2 
