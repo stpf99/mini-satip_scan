@@ -13,3 +13,6 @@ Create the playlist spec for my location / replace with propoer tune freq params
 ./octoscan --freq=554 --msys=dvbt2 --bw=8 --tmode=8k --gi=19/128 --mtype=256qam --append dvb.m3u 192.168.1.1
 
 i modified code for adding dvb-t/2 
+
+
+gcc -o octoscan octoscan.c -pthread
