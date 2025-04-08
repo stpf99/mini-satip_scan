@@ -1,14 +1,15 @@
-Create the playlist:
+Create the playlist spec for my location / replace with propoer tune freq params:
 
-  ./octoscanback --freq=122 --msys=dvbc --sr=6900 --mtype=64qam  --create Scanned_DVB-C.m3u <IP of the SAT>IP Server>
+./octoscan --use_nit --freq=650 --msys=dvbt2 --bw=8 --tmode=8k --gi=19/128 --mtype=256qam --create dvb.m3u 192.168.1.1
 
-Add another Transponder to the Playlist:
+./octoscan --freq=586 --msys=dvbt2 --bw=8 --tmode=8k --gi=19/128 --mtype=256qam --append dvb.m3u 192.168.1.1
 
-  ./octoscanback --freq=330 --msys=dvbc --sr=6900 --mtype=256qam --append Scanned_DVB-C.m3u <IP of the SAT>IP Server>
+./octoscan --freq=562 --msys=dvbt2 --bw=8 --tmode=8k --gi=19/128 --mtype=256qam --create dvb.m3u 192.168.1.1
 
-FYI The Binary provided is compiled on Ubuntu 19.10 / X86
+./octoscan --freq=538 --msys=dvbt2 --bw=8 --tmode=8k --gi=19/128 --mtype=256qam --append dvb.m3u 192.168.1.1
 
+./octoscan --freq=184 --msys=dvbt --bw=7 --tmode=8k --mtype=64qam --append dvb.m3u 192.168.1.1
 
-./octoscan
+./octoscan --freq=554 --msys=dvbt2 --bw=8 --tmode=8k --gi=19/128 --mtype=256qam --append dvb.m3u 192.168.1.1
 
 i modified code for adding dvb-t/2 
