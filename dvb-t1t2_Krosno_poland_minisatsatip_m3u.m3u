@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTINF:-1,TVN
+rtsp://192.168.1.1:554/?freq=562&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,201,202,203,204,206,205
+#EXTINF:-1,Polsat
+rtsp://192.168.1.1:554/?freq=562&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,101,102,103,108,106,105
+#EXTINF:-1,TV Puls
+rtsp://192.168.1.1:554/?freq=562&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,401,402,403,408,405
+#EXTINF:-1,TV6
+rtsp://192.168.1.1:554/?freq=562&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,701,702,703,708,305
+#EXTINF:-1,TV4
+rtsp://192.168.1.1:554/?freq=562&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,301,302,303,308,305
+#EXTINF:-1,TVN 7
+rtsp://192.168.1.1:554/?freq=562&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,501,502,503,504,506,505
+#EXTINF:-1,PULS 2
+rtsp://192.168.1.1:554/?freq=562&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,601,602,603,608,605
+#EXTINF:-1,Alfa TVP
+rtsp://192.168.1.1:554/?freq=586&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,801,802,803,808,806
+#EXTINF:-1,TVP Kobieta
+rtsp://192.168.1.1:554/?freq=586&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,701,702,703,708,706
+#EXTINF:-1,TVP Polonia
+rtsp://192.168.1.1:554/?freq=586&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,901,902,903,904,908,906
+#EXTINF:-1,TVP Nauka
+rtsp://192.168.1.1:554/?freq=586&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,401,402,403,408,406
+#EXTINF:-1,TVP Dokument
+rtsp://192.168.1.1:554/?freq=586&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,601,602,603,608,606
+#EXTINF:-1,TVP Rozrywka
+rtsp://192.168.1.1:554/?freq=586&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,501,502,503,508,506
+#EXTINF:-1,Belsat TV
+rtsp://192.168.1.1:554/?freq=586&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,101,102,103,108
+#EXTINF:-1,Fokus TV
+rtsp://192.168.1.1:554/?freq=650&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,5301,5302,5303,5308,2705
+#EXTINF:-1,ANTENA HD
+rtsp://192.168.1.1:554/?freq=650&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,3001,3002,3003
+#EXTINF:-1,ESKA TV
+rtsp://192.168.1.1:554/?freq=650&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,2701,2702,2703,2708,2705
+#EXTINF:-1,Stopklatka TV
+rtsp://192.168.1.1:554/?freq=650&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,5201,5202,5203,5204,5206
+#EXTINF:-1,TTV
+rtsp://192.168.1.1:554/?freq=650&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,2801,2802,2803,2804,2806,2805
+#EXTINF:-1,Wydarzenia 24
+rtsp://192.168.1.1:554/?freq=650&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,7001,7002,7003,7008,7006
+#EXTINF:-1,Polo TV
+rtsp://192.168.1.1:554/?freq=650&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,2901,2902,2903,2705
+#EXTINF:-1,TV Trwam
+rtsp://192.168.1.1:554/?freq=650&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,5011,5012,5003,5008,5005
+#EXTINF:-1,TVP Info
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,3501,3502,3503,3506
+#EXTINF:-1,TVP3 Rzeszow
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,1901,1902,1903,1908,1906,1905
+#EXTINF:-1,TVP Sport
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,3301,3302,3303,3308,3306
+#EXTINF:-1,TVP GO
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,7711,7702
+#EXTINF:-1,TVP1
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,101,102,103,104,108,106,105
+#EXTINF:-1,TVP Historia
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,501,502,503,508,506,505
+#EXTINF:-1,TVP2
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,201,202,203,204,208,206,205
+#EXTINF:-1,TVP ABC
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,5101,5102,5103,5104,5108,5106
+#EXTINF:-1,TVP Kultura
+rtsp://192.168.1.1:554/?freq=538&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,3101,3102,3103,3104,3108,3106,3105
+#EXTINF:-1,Republika
+rtsp://192.168.1.1:554/?freq=184&msys=dvbt&bw=7&tmode=8k&gi=auto&pids=0,7201,7202,7203
+#EXTINF:-1,test 211
+rtsp://192.168.1.1:554/?freq=184&msys=dvbt&bw=7&tmode=8k&gi=auto&pids=0,211,8142
+#EXTINF:-1,Zoom TV
+rtsp://192.168.1.1:554/?freq=184&msys=dvbt&bw=7&tmode=8k&gi=auto&pids=0,8081,8082,8083,8084,8086
+#EXTINF:-1,wPolsce24
+rtsp://192.168.1.1:554/?freq=184&msys=dvbt&bw=7&tmode=8k&gi=auto&pids=0,7301,7302,7303
+#EXTINF:-1,Metro
+rtsp://192.168.1.1:554/?freq=184&msys=dvbt&bw=7&tmode=8k&gi=auto&pids=0,8061,8062,8063,8064,8065
+#EXTINF:-1,Nowa TV
+rtsp://192.168.1.1:554/?freq=184&msys=dvbt&bw=7&tmode=8k&gi=auto&pids=0,8101,8102,8103,8108,8105
+#EXTINF:-1,WP
+rtsp://192.168.1.1:554/?freq=184&msys=dvbt&bw=7&tmode=8k&gi=auto&pids=0,8121,8122,8123,8124,8128,8125
+#EXTINF:-1,Polsat News Polityka
+rtsp://192.168.1.1:554/?freq=554&msys=dvbt2&bw=8&tmode=8k&gi=19/128&pids=0,118,218,318
+
