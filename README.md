@@ -1,4 +1,4 @@
-Create the playlist spec for my location / replace with propoer tune freq params:
+Create the playlist spec for my location / replace with proper tune freq params:
 
 ./octoscan --use_nit --freq=650 --msys=dvbt2 --bw=8 --tmode=8k --gi=19/128 --mtype=256qam --create dvb.m3u 192.168.1.1
 
